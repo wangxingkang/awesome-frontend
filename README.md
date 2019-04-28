@@ -34,6 +34,10 @@
 * [颜海镜--个人站](https://yanhaijing.com)
 * [廖雪峰--个人站](https://www.liaoxuefeng.com)
 * [张鑫旭--个人站](https://www.zhangxinxu.com)
+* [亚里士朱德--个人站](https://yalishizhude.github.io/)
+* [三水清--个人站](https://js8.in/)
+* [卡色--个人站](http://asdfblog.com/)
+* [huangxuan--个人站](https://huangxuan.me/)
 
 ## 学习网站
 
@@ -131,6 +135,7 @@
 ## 面试相关
 
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) GitHub非常火的前端面试题
+* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Question)
 * [interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理
 
 ## 线上代码分享网站
