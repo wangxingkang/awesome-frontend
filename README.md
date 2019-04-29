@@ -13,6 +13,7 @@
   - [组件库](#React-组件库)
   - [优秀组件](#React-优秀组件)
 - [数据可视化](#数据可视化)
+- [TypeScript](#TypeScript)
 - [Lint](#Lint)
   - [Standard](#Standard)
   - [ESLint](#ESLint)
@@ -112,6 +113,10 @@
 * [highcharts](https://www.highcharts.com.cn/products/highcharts) 
 * [D3.js](https://d3js.org)
 
+## TypeScript
+
+* [awesome-typescript](https://github.com/dzharii/awesome-typescript)
+
 ## Lint
 
 ## Standard
@@ -126,6 +131,10 @@
 
 * [官网](https://eslint.org)
 * [中文网](https://cn.eslint.org/)
+
+** 优秀的规则范例 **
+
+* [AlloyTeam ESLint 规则](https://github.com/AlloyTeam/eslint-config-alloy)
 
 ### TSLint
 
