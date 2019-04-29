@@ -133,7 +133,7 @@
 * [官网](https://eslint.org)
 * [中文网](https://cn.eslint.org/)
 
-** 优秀的规则范例 **
+**优秀的规则范例**
 
 * [AlloyTeam ESLint 规则](https://github.com/AlloyTeam/eslint-config-alloy)
 
