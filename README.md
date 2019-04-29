@@ -14,6 +14,7 @@
   - [优秀组件](#React-优秀组件)
 - [数据可视化](#数据可视化)
 - [Lint](#Lint)
+  - [Standard](#Standard)
   - [ESLint](#ESLint)
   - [TSLint](#TSLint)
   - [StyleLint](#StyleLint)
@@ -112,6 +113,12 @@
 * [D3.js](https://d3js.org)
 
 ## Lint
+
+## Standard
+
+> JavaScript 代码规范
+
+* [GitHub地址](https://github.com/standard/standard)
 
 ### ESLint
 
