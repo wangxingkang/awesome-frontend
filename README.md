@@ -116,6 +116,7 @@
 ## TypeScript
 
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript)
+* [TypeScript学习资源合集](https://github.com/semlinker/awesome-typescript)
 
 ## Lint
 
