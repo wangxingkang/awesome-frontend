@@ -8,11 +8,18 @@
 - [技术社区](#技术社区)
 - [教程类](#教程类)
 - [前端框架](#前端框架)
-- [React相关](#React相关)
-  - [框架相关](#React-框架相关)
-  - [组件库](#React-组件库)
-  - [优秀组件](#React-优秀组件)
+- [React](#React)
+  - [框架相关](#React框架相关)
+  - [组件库](#React组件库)
+  - [优秀组件](#React优秀组件)
 - [数据可视化](#数据可视化)
+- [Vue](#Vue)
+  - [Vue全家桶](#Vue全家桶)
+  - [综合](#Vue综合)
+  - [框架相关](#Vue框架相关)
+  - [组件库](#Vue组件库)
+  - [优秀组件](#Vue优秀组件)
+- [APP](#APP)
 - [TypeScript](#TypeScript)
 - [Lint](#Lint)
   - [Standard](#Standard)
@@ -72,20 +79,20 @@
 * [AngularJS](https://angularjs.org)
 * [LayUI](https://www.layui.com)
 
-## React相关
+## React
 
 > React技术栈相关资源整理
 
-### React-框架相关
+### React框架相关
 
 * [Umi](https://umijs.org) 阿里爸爸开源react构建解决方案
 
-### React-组件库
+### React组件库
 
 * [ant-design](https://ant.design/index-cn) 阿里开源的组件库
 * [material-ui](https://github.com/mui-org/material-ui) material风格组件库
 
-### React-优秀组件
+### React优秀组件
 
 * [react-virtualized](https://github.com/bvaughn/react-virtualized) 无限滚动 大量数据展示解决方案
 * [react-window](https://github.com/bvaughn/react-window) 简化版的react-virtualized，`react-virtualized`的重写
@@ -106,6 +113,50 @@
 * [react-amap](https://github.com/ElemeFE/react-amap) 高德地图
 * [google-map-react](https://github.com/google-map-react/google-map-react) 谷歌地图
 * [react-google-maps](https://github.com/tomchentw/react-google-maps) 谷歌地图
+
+## Vue
+
+### Vue全家桶
+
+* [vue](https://cn.vuejs.org/)
+* [vue-router](https://router.vuejs.org/zh/)
+* [vuex](https://vuex.vuejs.org/zh/)
+
+### Vue综合
+
+* [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
+
+### Vue框架相关
+
+* [nuxtjs](https://zh.nuxtjs.org/)
+
+### Vue组件库
+
+* [element-ui](https://element.eleme.io/#/zh-CN) PC端 饿了么出品 
+* [mint-ui](https://github.com/ElemeFE/mint-ui) 移动端 饿了么出品
+* [iview](https://iviewui.com/) PC端 
+* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) Ant Design Vue实现
+* [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) Bootstrap + Vue
+* [vuetify](https://github.com/vuetifyjs/vuetify) material风格组件库
+* [vant](https://github.com/youzan/vant) 移动端 有赞出品
+* [vue-ydui](https://github.com/ydcss/vue-ydui) 移动端 
+
+### Vue优秀组件
+
+* [vue-i18n](https://github.com/kazupon/vue-i18n) Vue多语言解决方案
+* [vue-meta](https://github.com/nuxt/vue-meta) Manage page meta info
+* [vue-lazyload](https://github.com/hilongjw/vue-lazyload) Vue懒加载组件
+* [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 基于Sortable.js的拖放组件 
+* [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) 基于swiper的轮播组件
+* [vue-multiselect](https://github.com/shentao/vue-multiselect)
+
+**富文本编译器**
+
+* [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
+
+## APP
+
+* [Weex](https://weex.apache.org/zh/) 
 
 ## 数据可视化
 
