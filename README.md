@@ -20,6 +20,8 @@
   - [组件库](#Vue组件库)
   - [优秀组件](#Vue优秀组件)
 - [APP](#APP)
+  - [Flutter](#Flutter)
+  - [混合开发](#混合开发)
 - [TypeScript](#TypeScript)
 - [Lint](#Lint)
   - [Standard](#Standard)
@@ -155,6 +157,16 @@
 * [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
 
 ## APP
+
+### Flutter
+
+> Google推出的跨平台的解决方案
+
+**案例项目**
+
+* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 访问豆瓣客户端
+
+### 混合开发
 
 * [Weex](https://weex.apache.org/zh/) 
 
