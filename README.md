@@ -164,7 +164,7 @@
 
 **案例项目**
 
-* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 访问豆瓣客户端
+* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 访豆瓣客户端
 
 ### 混合开发
 
