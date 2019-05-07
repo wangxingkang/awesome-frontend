@@ -12,6 +12,7 @@
   - [框架相关](#React框架相关)
   - [组件库](#React组件库)
   - [优秀组件](#React优秀组件)
+  - [综合](#React综合)
 - [数据可视化](#数据可视化)
 - [Vue](#Vue)
   - [Vue全家桶](#Vue全家桶)
@@ -115,6 +116,10 @@
 * [react-amap](https://github.com/ElemeFE/react-amap) 高德地图
 * [google-map-react](https://github.com/google-map-react/google-map-react) 谷歌地图
 * [react-google-maps](https://github.com/tomchentw/react-google-maps) 谷歌地图
+
+### React综合
+
+* [https://js.coach](https://js.coach) 收录了一些优秀的react库
 
 ## Vue
 
