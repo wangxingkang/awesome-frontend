@@ -250,9 +250,10 @@
 
 ## Mac
 
-[xclient](https://xclient.info/) 精品Mac应用分享
-[iterm2](https://www.iterm2.com/) 命令行工具
-[Homebrew](https://brew.sh/index_zh-cn.html) macOS 缺失的软件包的管理器
+* [xclient](https://xclient.info/) 精品Mac应用分享
+* [iterm2](https://www.iterm2.com/) 命令行工具
+* [Homebrew](https://brew.sh/index_zh-cn.html) macOS 缺失的软件包的管理器
+* [http://idea.lanyus.com/](http://idea.lanyus.com/) WebStorm 注册码
 
 
  
