@@ -35,6 +35,8 @@
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
 - [小工具](#小工具)
+- [Chrome](#Chrome)
+  - [优秀插件](#优秀插件)
 - [Mac相关](#Mac)
   - [精品应用](#Mac精品应用)
   - [其他](#Mac其他)
@@ -255,11 +257,18 @@
 * [tinyPng](https://tinypng.com/) 图片压缩
 * [regexper](https://regexper.com/) 正则图形化
 
+## Chrome
+
+### 优秀插件
+
+* [workona](https://workona.com) 控制标签,提高工作效率
+
 ## Mac
 
 ### Mac精品应用
 
 * [alfred](https://www.alfredapp.com/) Alfred提升你的工作效率
+* [thor](https://itunes.apple.com/cn/app/thor/id1120999687?mt=12) 通过快捷键快速启动你的应用
 * [iterm2](https://www.iterm2.com/) 命令行工具
 * [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) 键盘自定义工具软件
 
