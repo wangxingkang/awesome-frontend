@@ -34,6 +34,7 @@
 - [面试相关](#面试相关)
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
+- [#优秀github库](#优秀github库)
 - [小工具](#小工具)
 - [Chrome](#Chrome)
   - [优秀插件](#优秀插件)
@@ -251,6 +252,10 @@
 ## 编码辅助网站
 
 * [AST语法树解析网站](https://astexplorer.net/)
+
+## 优秀github库
+
+[nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
 
 ## 小工具
 
