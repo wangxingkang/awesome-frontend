@@ -61,6 +61,7 @@
 * [三水清--个人站](https://js8.in/)
 * [卡色--个人站](http://asdfblog.com/)
 * [huangxuan--个人站](https://huangxuan.me/)
+* [张云龙](https://github.com/fouber/blog)
 
 ## 学习网站
 
