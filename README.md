@@ -36,6 +36,7 @@
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
 - [优秀github库](#优秀github库)
+- [文档相关](#文档相关)
 - [小工具](#小工具)
 - [Chrome](#Chrome)
   - [优秀插件](#优秀插件)
@@ -263,6 +264,15 @@
 ## 优秀github库
 
 [nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
+[svelte](https://github.com/sveltejs/svelte) 另一个前端框架，待研究
+
+**前端相关**
+
+[HEAD](https://github.com/joshbuchea/HEAD) 一份与 <head> 部分相关的标签清单
+
+## 文档相关
+
+[docz](https://www.docz.site/) 
 
 ## 小工具
 
