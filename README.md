@@ -272,7 +272,8 @@
 
 ## 文档相关
 
-[docz](https://www.docz.site/) 
+[docz](https://www.docz.site/) 暂时只支持react
+[storybook](https://github.com/storybooks/storybook) 支持多种框架
 
 ## 小工具
 
