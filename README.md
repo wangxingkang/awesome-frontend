@@ -270,12 +270,12 @@
 
 **前端相关**
 
-[HEAD](https://github.com/joshbuchea/HEAD) 一份与 <head> 部分相关的标签清单
+* [HEAD](https://github.com/joshbuchea/HEAD) 一份与 <head> 部分相关的标签清单
 
 ## 文档相关
 
-[docz](https://www.docz.site/) 暂时只支持react
-[storybook](https://github.com/storybooks/storybook) 支持多种框架
+* [docz](https://www.docz.site/) 暂时只支持react
+* [storybook](https://github.com/storybooks/storybook) 支持多种框架
 
 ## 小工具
 
