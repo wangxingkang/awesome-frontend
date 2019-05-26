@@ -265,8 +265,8 @@
 
 ## 优秀github库
 
-[nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
-[svelte](https://github.com/sveltejs/svelte) 另一个前端框架，待研究
+* [nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
+* [svelte](https://github.com/sveltejs/svelte) 另一个前端框架，待研究
 
 **前端相关**
 
