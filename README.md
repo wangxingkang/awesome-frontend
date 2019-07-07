@@ -64,6 +64,7 @@
 * [huangxuan--个人站](https://huangxuan.me/)
 * [张云龙](https://github.com/fouber/blog)
 * [冴羽](https://github.com/mqyqingfeng/Blog) 主要是JS教程
+* [张云龙](https://github.com/fouber/blog) start近两万的博客 值得一看
 
 ## 学习网站
 
