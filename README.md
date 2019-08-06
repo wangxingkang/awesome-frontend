@@ -248,13 +248,7 @@
 
 ## 面试相关
 
-* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) GitHub非常火的前端面试题
-* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Question)
-* [interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理
-* [每天搞定一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question) 
-* [fe9-interview](https://github.com/frontend9/fe9-interview) 前端九部 - 面试题库
-* [每周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
-* [interview_internal_reference](https://github.com/0voice/interview_internal_reference)
+* [frontend-interview-question](https://github.com/wangxingkang/frontend-interview-question)
 
 ## 线上代码分享网站
 
