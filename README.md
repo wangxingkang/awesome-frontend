@@ -22,7 +22,7 @@
   - [组件库](#Vue组件库)
   - [优秀组件](#Vue优秀组件)
 - [移动端](#移动端)
-  - [Flutter](#Flutter)
+  - [Flutter](./Flutter.md)
   - [混合开发](#混合开发)
     - [Weex](#Weex)
     - [ReactNative](#ReactNative)
@@ -184,14 +184,6 @@
 ## 移动端
 
 * [mobileHack](https://github.com/RubyLouvre/mobileHack) 移动端上遇到的各种坑
-
-### Flutter
-
-> Google推出的跨平台的解决方案
-
-**案例项目**
-
-* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 仿豆瓣客户端
 
 ### 混合开发
 
