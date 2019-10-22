@@ -42,6 +42,9 @@
 * [react-use](https://github.com/streamich/react-use)
 * [@alitajs/hooks](https://github.com/alitajs/hooks)
 
+## React学习
+* [fake-react](https://github.com/LuSuguru/fake-react) 基于官方 React 16.8.6 的源码并使用 TypeScript 仿写的 React
+
 ## 优秀项目
 
 * [react-markdown](https://github.com/rexxars/react-markdown) 将markdown渲染为React组件
