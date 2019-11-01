@@ -13,6 +13,7 @@
 ## 组件库
 
 - [ant-design](https://ant.design/index-cn) 阿里开源的组件库
+- [ant-design-plus](https://github.com/alitajs/ant-design-plus) 提炼于真实场景的业务组件 -- `AlitaJs`出品
 - [material-ui](https://github.com/mui-org/material-ui) material风格组件库
 
 ## 优秀组件

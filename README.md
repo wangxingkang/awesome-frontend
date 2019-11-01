@@ -2,6 +2,10 @@
 
 > 项目定位为收集前端生态圈使用到的一些资源，方便查阅使用
 
+**置顶**
+
+[awesome-javascript](https://github.com/sorrycc/awesome-javascript) 云谦大大整理的
+
 # 目录
 - [技术博客](#技术博客)
 - [学习网站](#学习网站)
@@ -67,6 +71,7 @@
 ## 技术社区
 
 * [CNode](https://cnodejs.org/) Node.js专业中文社区
+* [Alita](https://github.com/alitajs) 建立以业务为中心的Web全流程解决方案的团队 
 
 ## 教程类
 
