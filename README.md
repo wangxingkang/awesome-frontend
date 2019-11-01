@@ -36,13 +36,13 @@
 
 ### 团队
 
-* [奇舞团](https://75team.com) 360前端Team
-* [FEX](http://fex.baidu.com) 百度前端Team
-* [AlloyTeam](http://www.alloyteam.com) 腾讯前端Team
-* [FED](http://taobaofed.org) 淘宝前端Team
+* [奇舞团](https://75team.com) 360
+* [FEX](http://fex.baidu.com) 百度
+* [AlloyTeam](http://www.alloyteam.com) 腾讯
+* [FED](http://taobaofed.org) 淘宝
 * [大搜车](http://f2e.souche.com/blog/)
-* [YouZan](https://tech.youzan.com/tag/front-end) 有赞前端Team 
-* [美团](https://tech.meituan.com)
+* [YouZan](https://tech.youzan.com/tag/front-end) 有赞
+* [美团](https://tech.meituan.com) 美团
 
 ### 个人
 
