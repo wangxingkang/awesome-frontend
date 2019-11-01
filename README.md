@@ -11,7 +11,7 @@
 - [Flutter](./Flutter.md)
 - [数据可视化](#数据可视化)
 - [Cli相关](./Cli.md)
-- [Vue](#Vue)
+- [Vue](./Vue.md)
   - [Vue全家桶](#Vue全家桶)
   - [综合](#Vue综合)
   - [框架相关](#Vue框架相关)
@@ -28,7 +28,7 @@
   - [ESLint](#ESLint)
   - [TSLint](#TSLint)
   - [StyleLint](#StyleLint)
-- [面试相关](#面试相关)
+- [面试相关](https://github.com/wangxingkang/frontend-interview-question)
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
 - [优秀github库](#优秀github库)
@@ -76,7 +76,6 @@
 
 * [CNode](https://cnodejs.org/) Node.js专业中文社区
 
-
 ## 教程类
 
 **javascript相关**
@@ -85,46 +84,6 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) 阮一峰出品
 * [瘳雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [现代 JavaScript 教程](https://zh.javascript.info)
-
-## Vue
-
-### Vue全家桶
-
-* [vue](https://cn.vuejs.org/)
-* [vue-router](https://router.vuejs.org/zh/)
-* [vuex](https://vuex.vuejs.org/zh/)
-
-### Vue综合
-
-* [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)
-
-### Vue框架相关
-
-* [nuxtjs](https://zh.nuxtjs.org/)
-
-### Vue组件库
-
-* [element-ui](https://element.eleme.io/#/zh-CN) PC端 饿了么出品 
-* [mint-ui](https://github.com/ElemeFE/mint-ui) 移动端 饿了么出品
-* [iview](https://iviewui.com/) PC端 
-* [ant-design-vue](https://github.com/vueComponent/ant-design-vue) Ant Design Vue实现
-* [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) Bootstrap + Vue
-* [vuetify](https://github.com/vuetifyjs/vuetify) material风格组件库
-* [vant](https://github.com/youzan/vant) 移动端 有赞出品
-* [vue-ydui](https://github.com/ydcss/vue-ydui) 移动端 
-
-### Vue优秀组件
-
-* [vue-i18n](https://github.com/kazupon/vue-i18n) Vue多语言解决方案
-* [vue-meta](https://github.com/nuxt/vue-meta) Manage page meta info
-* [vue-lazyload](https://github.com/hilongjw/vue-lazyload) Vue懒加载组件
-* [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 基于Sortable.js的拖放组件 
-* [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) 基于swiper的轮播组件
-* [vue-multiselect](https://github.com/shentao/vue-multiselect)
-
-**富文本编译器**
-
-* [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
 
 ## 移动端
 
@@ -182,10 +141,6 @@
 > CSS代码审查工具
 
 * [官网](https://stylelint.io/)
-
-## 面试相关
-
-* [frontend-interview-question](https://github.com/wangxingkang/frontend-interview-question)
 
 ## 线上代码分享网站
 
