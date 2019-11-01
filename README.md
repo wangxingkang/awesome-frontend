@@ -23,10 +23,9 @@
 - [打包相关](./Bundler.md)
 - [面试相关](https://github.com/wangxingkang/frontend-interview-question)
 - [线上代码分享网站](#线上代码分享网站)
-- [编码辅助网站](#编码辅助网站)
 - [优秀github库](#优秀github库)
 - [文档相关](#文档相关)
-- [小工具](#小工具)
+- [工具网站](#工具网站)
 - [Chrome](#Chrome)
   - [优秀插件](#优秀插件)
 - [Mac相关](#Mac)
@@ -96,10 +95,6 @@
 * [JSBin](http://jsbin.com)
 * [CodePen](https://codepen.io)
 
-## 编码辅助网站
-
-* [AST语法树解析网站](https://astexplorer.net/)
-
 ## 优秀github库
 
 * [nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
@@ -115,8 +110,9 @@
 * [docz](https://www.docz.site/) 暂时只支持react
 * [storybook](https://github.com/storybooks/storybook) 支持多种框架
 
-## 小工具
+## 工具网站
 
+* [astexplorer](https://astexplorer.net/) AST语法树解析
 * [tinyPng](https://tinypng.com/) 图片压缩
 * [regexper](https://regexper.com/) 正则图形化
 
