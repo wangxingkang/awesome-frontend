@@ -83,7 +83,7 @@
  
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com) 阮一峰出品
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) 阮一峰出品
-* [瘳雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+* [廖雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [现代 JavaScript 教程](https://zh.javascript.info)
 
 ## 数据可视化
