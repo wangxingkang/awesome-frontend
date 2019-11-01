@@ -39,6 +39,8 @@
 
 ## 技术博客
 
+### 团队
+
 * [奇舞团--团队](https://75team.com) 360前端Team
 * [FEX--团队](http://fex.baidu.com) 百度前端Team
 * [AlloyTeam--团队](http://www.alloyteam.com) 腾讯前端Team
@@ -46,13 +48,15 @@
 * [大搜车--团队](http://f2e.souche.com/blog/)
 * [YouZan-团队](https://tech.youzan.com/tag/front-end) 有赞前端Team 
 * [美团--团队](https://tech.meituan.com)
+
+### 个人
+
 * [阮一峰--个人站](http://www.ruanyifeng.com) 阮大神的博客站，内容丰富，值得拥有
 * [颜海镜--个人站](https://yanhaijing.com)
 * [廖雪峰--个人站](https://www.liaoxuefeng.com)
 * [张鑫旭--个人站](https://www.zhangxinxu.com)
 * [亚里士朱德--个人站](https://yalishizhude.github.io/)
 * [三水清--个人站](https://js8.in/)
-* [卡色--个人站](http://asdfblog.com/)
 * [huangxuan--个人站](https://huangxuan.me/)
 * [张云龙](https://github.com/fouber/blog)
 * [冴羽](https://github.com/mqyqingfeng/Blog) 主要是JS教程
