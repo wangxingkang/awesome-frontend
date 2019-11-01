@@ -28,7 +28,6 @@
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
 - [优秀github库](#优秀github库)
-- [工具库](#工具库)
 - [文档相关](#文档相关)
 - [小工具](#小工具)
 - [Chrome](#Chrome)
@@ -145,10 +144,6 @@
 * [nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
 * [svelte](https://github.com/sveltejs/svelte) 另一个前端框架，待研究
 * [lerna](https://lerna.js.org/) 单项目多包解决方案
-
-## 工具库
-* [lodash](https://github.com/lodash/lodash/) 很多库的基础工具库 强烈推荐
-* [chroma](https://github.com/gka/chroma.js) 处理颜色的库 
 
 **前端相关**
 

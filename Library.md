@@ -19,7 +19,7 @@
 
 * [DPayer](https://github.com/MoePlayer/DPlayer) 支持flv/hls直播协议
 
+* [chroma](https://github.com/gka/chroma.js) 处理颜色的库 
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) 显示大型数据集
-
 * [store](https://github.com/marcuswestin/store.js) 浏览器存储库
 * [xss](https://github.com/leizongmin/js-xss) 防止XSS
