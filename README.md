@@ -12,18 +12,14 @@
 - [技术社区](#技术社区)
 - [教程类](#教程类)
 - [React](./React.md)
+- [Vue](./Vue.md)
 - [好用的前端库](./Library.md)
 - [Flutter](./Flutter.md)
 - [数据可视化](#数据可视化)
 - [Cli相关](./Cli.md)
-- [Vue](./Vue.md)
 - [移动端](./Mobile.md)
 - [TypeScript](./Typescript.md)
-- [Lint](#Lint)
-  - [Standard](#Standard)
-  - [ESLint](#ESLint)
-  - [TSLint](#TSLint)
-  - [StyleLint](#StyleLint)
+- [规范相关](./Lint.md)
 - [面试相关](https://github.com/wangxingkang/frontend-interview-question)
 - [线上代码分享网站](#线上代码分享网站)
 - [编码辅助网站](#编码辅助网站)
@@ -91,37 +87,6 @@
 * [echarts](https://echarts.baidu.com) 百度数据可视化库
 * [highcharts](https://www.highcharts.com.cn/products/highcharts) 
 * [D3.js](https://d3js.org)
-
-## Lint
-
-## Standard
-
-> JavaScript 代码规范
-
-* [GitHub地址](https://github.com/standard/standard)
-
-### ESLint
-
-> JS、TS代码审查工具
-
-* [官网](https://eslint.org)
-* [中文网](https://cn.eslint.org/)
-
-**优秀的规则范例**
-
-* [AlloyTeam ESLint 规则](https://github.com/AlloyTeam/eslint-config-alloy)
-
-### TSLint
-
-> TS代码审查工具
-
-* [官网](https://palantir.github.io/tslint/)
-
-### StyleLint
-
-> CSS代码审查工具
-
-* [官网](https://stylelint.io/)
 
 ## 线上代码分享网站
 
