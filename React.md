@@ -26,6 +26,11 @@
 * [react-highlight-words](https://github.com/bvaughn/react-highlight-words) 关键字高亮
 * [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 
+**大量数据展示**
+
+* [react-virtualized](https://github.com/bvaughn/react-virtualized) 呈现大型列表和表格数据
+* [react-window](https://github.com/bvaughn/react-window) 重写react-virtualized的库，只关心核心功能
+
 **富文本编辑器**
 
 * [braft-editor](https://github.com/margox/braft-editor) 基于draft-js开发的富文本编译器
