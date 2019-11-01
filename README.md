@@ -18,7 +18,7 @@
 - [Cli相关](./Cli.md)
 - [Vue](./Vue.md)
 - [移动端](./Mobile.md)
-- [TypeScript](#TypeScript)
+- [TypeScript](./Typescript.md)
 - [Lint](#Lint)
   - [Standard](#Standard)
   - [ESLint](#ESLint)
@@ -91,11 +91,6 @@
 * [echarts](https://echarts.baidu.com) 百度数据可视化库
 * [highcharts](https://www.highcharts.com.cn/products/highcharts) 
 * [D3.js](https://d3js.org)
-
-## TypeScript
-
-* [awesome-typescript](https://github.com/dzharii/awesome-typescript)
-* [TypeScript学习资源合集](https://github.com/semlinker/awesome-typescript)
 
 ## Lint
 

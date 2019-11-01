@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://reactjs.org">
+  <a href="https://vuejs.org">
     <img width="100" src="https://cli.vuejs.org/favicon.png">
   </a>
 </p>
