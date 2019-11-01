@@ -18,12 +18,13 @@
 - [数据可视化](#数据可视化)
 - [Cli相关](./Cli.md)
 - [移动端](./Mobile.md)
+- [小程序](./MiniProgram.md)
 - [TypeScript](./Typescript.md)
 - [规范相关](./Lint.md)
 - [打包相关](./Bundler.md)
 - [面试相关](https://github.com/wangxingkang/frontend-interview-question)
 - [线上代码分享网站](#线上代码分享网站)
-- [优秀github库](#优秀github库)
+- [实用的Github项目](./GithubProject.md)
 - [文档相关](#文档相关)
 - [工具网站](#工具网站)
 - [Chrome](#Chrome)
@@ -94,12 +95,6 @@
 * [JSFiddle](https://jsfiddle.net)
 * [JSBin](http://jsbin.com)
 * [CodePen](https://codepen.io)
-
-## 优秀github库
-
-* [nodeppt](https://github.com/ksky521/nodeppt) 网页版PPT
-* [svelte](https://github.com/sveltejs/svelte) 另一个前端框架，待研究
-* [lerna](https://lerna.js.org/) 单项目多包解决方案
 
 **前端相关**
 

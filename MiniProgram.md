@@ -1,5 +1,5 @@
 <h1 align="center">
-  微信小程序
+  小程序
 </h1>
 
 * [taro](https://github.com/NervJS/taro) 多端统一开发框架，支持用 React 的开发方式编写一次代码
