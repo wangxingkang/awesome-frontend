@@ -7,7 +7,7 @@
 - [官网](https://webpack.js.org)
 - [中文网](https://www.webpackjs.com)
 
-### 优化的插件
+### 社区插件
 
 * [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
 
@@ -24,7 +24,7 @@
 
 - [官网](https://rollupjs.org/guide/en/)
 
-### 再封装
+### 基于rollup的库
 
 - [bili](https://github.com/egoist/bili) 一个基于rollup的零配置打包库
 - [pansy](https://github.com/walrus-plus/pansy) 基于`bili`的代码，做些特定化需求，支持`bili`的所有功能
