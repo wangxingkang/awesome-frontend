@@ -12,13 +12,7 @@
 - [数据可视化](#数据可视化)
 - [Cli相关](./Cli.md)
 - [Vue](./Vue.md)
-  - [Vue全家桶](#Vue全家桶)
-  - [综合](#Vue综合)
-  - [框架相关](#Vue框架相关)
-  - [组件库](#Vue组件库)
-  - [优秀组件](#Vue优秀组件)
-- [小程序](./Mini-Program.md)
-- [移动端](#移动端)
+- [移动端](./Mobile.md)
   - [混合开发](#混合开发)
     - [Weex](#Weex)
     - [ReactNative](#ReactNative)
@@ -84,20 +78,6 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) 阮一峰出品
 * [瘳雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [现代 JavaScript 教程](https://zh.javascript.info)
-
-## 移动端
-
-* [mobileHack](https://github.com/RubyLouvre/mobileHack) 移动端上遇到的各种坑
-
-### 混合开发
-
-#### Weex
-
-* [Weex](https://weex.apache.org/zh/) 
-
-#### ReactNative
-
-* [reactNativeExample](https://reactnativeexample.com/) react-native项目示例网站
 
 ## 数据可视化
 
