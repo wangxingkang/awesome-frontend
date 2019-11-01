@@ -27,6 +27,7 @@
 - [实用的Github项目](./GithubProject.md)
 - [文档相关](#文档相关)
 - [工具网站](#工具网站)
+- [综合](#综合)
 - [Chrome](#Chrome)
   - [优秀插件](#优秀插件)
 - [Mac相关](#Mac)
@@ -67,10 +68,15 @@
 * [实验楼](https://www.shiyanlou.com)
 * [极客学院](http://www.jikexueyuan.com)
 * [菜鸟教程](https://www.runoob.com)
+* [w3cplus](https://www.w3cplus.com) 很多高质量的CSS博客
+* [techbrood](https://www.techbrood.com/) 在线技术作品（H5、WebGL和WebXR）分享平台
+
+* [人人都是产品经理](http://www.woshipm.com) 不会产品的研发不是一个好测试
 
 ## 技术社区
 
 * [CNode](https://cnodejs.org/) Node.js专业中文社区
+* [掘金](https://juejin.im) 高质量的技术社区
 * [Alita](https://github.com/alitajs) 建立以业务为中心的Web全流程解决方案的团队 
 
 ## 教程类
@@ -81,6 +87,11 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) 阮一峰出品
 * [廖雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [现代 JavaScript 教程](https://zh.javascript.info)
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
+
+**综合**
+
+* [freecodecamp](https://www.freecodecamp.org/) 涉及的比较全面
 
 ## 数据可视化
 
@@ -110,6 +121,17 @@
 * [astexplorer](https://astexplorer.net/) AST语法树解析
 * [tinyPng](https://tinypng.com/) 图片压缩
 * [regexper](https://regexper.com/) 正则图形化
+* [shields](https://shields.io) 徽章制作网站
+* [Travis](https://travis-ci.org/) 免费的 CI 服务 进行测试和部署
+* [iconfont](https://www.iconfont.cn) 阿里妈妈MUX倾力打造的矢量图标管理、交流平台
+* [IDEA](http://idea.lanyus.com/) Intellij IDE 注册码获取
+* [goeasy](http://www.goeasy.io/cn/home) 消息推送方案
+
+## 综合
+
+* [fetool](https://github.com/nieweidong/fetool) 大前端的瑞士军刀，只记录有用的。
+* [frontend-stuff](https://github.com/moklick/frontend-stuff)
+* [awesome-github](https://github.com/AntBranch/awesome-github)
 
 ## Chrome
 
