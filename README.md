@@ -124,7 +124,6 @@
 * [shields](https://shields.io) 徽章制作网站
 * [Travis](https://travis-ci.org/) 免费的 CI 服务 进行测试和部署
 * [iconfont](https://www.iconfont.cn) 阿里妈妈MUX倾力打造的矢量图标管理、交流平台
-* [IDEA](http://idea.lanyus.com/) Intellij IDE 注册码获取
 * [goeasy](http://www.goeasy.io/cn/home) 消息推送方案
 
 ## 综合
