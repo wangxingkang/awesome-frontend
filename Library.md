@@ -90,3 +90,5 @@
 * [xss](https://github.com/leizongmin/js-xss) 防止XSS
 * [particles](https://github.com/VincentGarreau/particles.js) 用于创建粒子的轻量级JavaScript库
 * [xstate](https://github.com/davidkpiano/xstate) 现代网络的状态机和状态图  推荐指数 🌟🌟🌟🌟🌟
+
+* [sql.js](https://github.com/kripken/sql.js)
