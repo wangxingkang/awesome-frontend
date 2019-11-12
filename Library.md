@@ -14,6 +14,7 @@
   - [moment](#moment) 使用javascript解析，验证，操作和显示日期
   - [dayjs](#dayjs) 具有与Moment相同API的，大小只有2KB的库
   - [DPlayer](#DPlayer) H5播放器，支持弹幕、flv/hls直播
+  - [store](#store) 跨浏览器存储所有用例，在网络上使用
 
 ## CSS
 
@@ -40,40 +41,47 @@
 
 ## javascript
 
-#### lodash
+### lodash
 
 * 项目描述: 现代化的JavaScript实用程序库，提供模块化，性能和附加功能
 * 仓库地址: [lodash](https://github.com/lodash/lodash)
-* 使用场景: node/web项目都可使用
+* 使用场景: web/Node
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-#### redux
+### redux
 
 * 项目描述: JavaScript应用程序的可预测状态容器
 * 仓库地址: [redux](https://github.com/reduxjs/redux) 
-* 使用场景: web项目
+* 使用场景: web
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-#### moment
+### moment
 
 * 项目描述: 使用javascript解析，验证，操作和显示日期
 * 仓库地址: [moment](https://github.com/moment/moment)
-* 使用场景: web项目/Node
+* 使用场景: web/Node
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-#### dayjs
+### dayjs
 
 * 项目描述: 具有与Moment相同API的，大小只有2KB的库
 * 仓库地址: [dayjs](https://github.com/iamkun/dayjs)
-* 使用场景: web项目/Node
+* 使用场景: web/Node
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-#### DPlayer
+### DPlayer
 
 * 项目描述: H5播放器，支持弹幕、flv/hls直播
 * 仓库地址: [DPlayer](https://github.com/MoePlayer/DPlayer)
-* 使用场景: web项目
+* 使用场景: web
 * 推荐指数: 🌟🌟🌟🌟
+
+### store
+
+* 项目描述: 跨浏览器存储所有用例，在网络上使用
+* 仓库地址: [store](https://github.com/marcuswestin/store.js)
+* 使用场景: web
+* 推荐指数: 🌟🌟🌟🌟🌟
 
 
 * [underscore](https://github.com/jashkenas/underscore) JavaScript 工具库，提供了一整套函数式编程的实用功能
@@ -86,7 +94,6 @@
 * [lib-flexible](https://github.com/amfe/lib-flexible) 移动端适配方案
 * [chroma](https://github.com/gka/chroma.js) 处理颜色的库 
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) 显示大型数据集
-* [store](https://github.com/marcuswestin/store.js) 浏览器存储库
 * [xss](https://github.com/leizongmin/js-xss) 防止XSS
 * [particles](https://github.com/VincentGarreau/particles.js) 用于创建粒子的轻量级JavaScript库
 * [xstate](https://github.com/davidkpiano/xstate) 现代网络的状态机和状态图  推荐指数 🌟🌟🌟🌟🌟
