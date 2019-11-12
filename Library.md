@@ -99,3 +99,4 @@
 * [xstate](https://github.com/davidkpiano/xstate) 现代网络的状态机和状态图  推荐指数 🌟🌟🌟🌟🌟
 
 * [sql.js](https://github.com/kripken/sql.js)
+* [pouchdb](https://github.com/pouchdb/pouchdb)
