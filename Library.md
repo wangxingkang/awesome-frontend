@@ -13,7 +13,7 @@
   - [redux](#redux) JavaScript应用程序的可预测状态容器
   - [moment](#moment) 使用javascript解析，验证，操作和显示日期
   - [dayjs](#dayjs) 具有与Moment相同API的，大小只有2KB的库
-  - [DPayer](#DPayer) H5播放器，支持弹幕、flv/hls直播
+  - [DPlayer](#DPlayer) H5播放器，支持弹幕、flv/hls直播
 
 ## CSS
 
@@ -68,10 +68,10 @@
 * 使用场景: web项目/Node
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-#### DPayer
+#### DPlayer
 
 * 项目描述: H5播放器，支持弹幕、flv/hls直播
-* 仓库地址: [lodash](https://github.com/lodash/lodash)
+* 仓库地址: [DPlayer](https://github.com/MoePlayer/DPlayer)
 * 使用场景: web项目
 * 推荐指数: 🌟🌟🌟🌟
 
