@@ -4,8 +4,17 @@
 
 ## css
 
-* [normalize.css](https://github.com/necolas/normalize.css) reset css 的推荐方案
-* [balloon.css](https://github.com/kazzkiq/balloon.css) 纯CSS制成的简单工具提示库
+### [normalize.css](https://github.com/necolas/normalize.css) 
+
+* 项目描述: 重置CSS
+* 使用场景: web项目都可使用
+* 推荐指数: 🌟🌟🌟🌟🌟
+
+### [balloon.css](https://github.com/kazzkiq/balloon.css)
+
+* 项目描述: 纯CSS制成的简单工具提示库
+* 使用场景: 一些组件库可使用
+* 推荐指数: 🌟🌟🌟🌟
 
 ## javascript
 
@@ -39,3 +48,4 @@
 * [store](https://github.com/marcuswestin/store.js) 浏览器存储库
 * [xss](https://github.com/leizongmin/js-xss) 防止XSS
 * [particles](https://github.com/VincentGarreau/particles.js) 用于创建粒子的轻量级JavaScript库
+* [xstate](https://github.com/davidkpiano/xstate) 现代网络的状态机和状态图  推荐指数 🌟🌟🌟🌟🌟
