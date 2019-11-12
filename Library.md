@@ -5,26 +5,26 @@
 ## 目录
 
 - [CSS](#CSS)
-  - [normalize.css](#normalize.css) CSS重置的现代替代方法
-  - [balloon.css](#balloon.css) 纯CSS制成的简单工具提示
+  - [normalize.css](#normalize) CSS重置的现代替代方法
+  - [balloon.css](#balloon) 纯CSS制成的简单工具提示
   - [bootstrap](#bootstrap) 最受欢迎的HTML，CSS和JavaScript框架，用于在网络上开发响应式，移动优先。
 - [JavaScript](#JavaScript) 
   - [lodash](#lodash) 现代化的JavaScript实用程序库，提供模块化，性能和附加功能
   - [redux](#redux) JavaScript应用程序的可预测状态容器
   - [moment](#moment) 使用javascript解析，验证，操作和显示日期
   - [dayjs](#dayjs) 具有与Moment相同API的，大小只有2KB的库
-  - [DPayer](#DPayer)
+  - [DPayer](#DPayer) H5播放器，支持弹幕、flv/hls直播
 
 ## CSS
 
-### normalize.css
+### normalize
 
 * 项目描述: CSS重置的现代替代方法
 * 仓库地址: [normalize.css](https://github.com/necolas/normalize.css) 
 * 使用场景: web
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-### balloon.css
+### balloon
 
 * 项目描述: 纯CSS制成的简单工具提示
 * 仓库地址: [balloon.css](https://github.com/kazzkiq/balloon.css)
