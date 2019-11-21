@@ -53,9 +53,9 @@
 * 使用场景: node
 * 推荐指数: 🌟🌟🌟🌟🌟
 
-### semver
+### nodemon
 
-* 项目描述: npm语义版本控制程序
+* 项目描述: 监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发
 * 仓库地址: [nodemon](https://github.com/remy/nodemon)
 * 使用场景: node
 * 推荐指数: 🌟🌟🌟🌟🌟
