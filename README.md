@@ -91,6 +91,10 @@
 * [现代 JavaScript 教程](https://zh.javascript.info)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
 
+**综合**
+
+* [freecodecamp](https://www.freecodecamp.org/) 涉及的比较全面
+
 ## 文档工具
 
 ### Docz
@@ -110,11 +114,6 @@
 * 描述: 很棒的文档工具，支持`Vue`。 
 * 地址: [vuepress](https://github.com/vuejs/vuepress)
 * 推荐指数: 🌟🌟🌟🌟🌟
-
-
-**综合**
-
-* [freecodecamp](https://www.freecodecamp.org/) 涉及的比较全面
 
 ## 数据可视化
 
