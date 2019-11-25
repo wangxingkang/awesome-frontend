@@ -74,6 +74,7 @@
 * [techbrood](https://www.techbrood.com/) 在线技术作品（H5、WebGL和WebXR）分享平台
 
 * [人人都是产品经理](http://www.woshipm.com) 不会产品的研发不是一个好测试
+* [learngitbranching](https://learngitbranching.js.org/) 一个Git学习网站
 
 ## 技术社区
 
@@ -90,6 +91,7 @@
 * [廖雪峰的Javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 * [现代 JavaScript 教程](https://zh.javascript.info)
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
+* [Git 教程](https://www.git-scm.com/book/zh/v2)  
 
 **综合**
 
