@@ -1,7 +1,7 @@
 ---
 order: 2
 nav:
-  title: 前端面试
+  title: 面试系列
 ---
 
 ## 前序准备
