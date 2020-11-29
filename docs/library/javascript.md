@@ -10,6 +10,15 @@ group:
 
 # JavaScript
 
+## 风格指南
+
+- [Airbnb JavaScript 风格指南](https://github.com/airbnb/javascript)
+- [Google JavaScript 风格指南](https://google.github.io/styleguide/jsguide.html)
+- [Idiomatic.Js](https://github.com/rwaldron/idiomatic.js)
+- [StandardJs](https://standardjs.com/readme-zhcn.html)
+
+## 优化的库
+
 - [lodash](#lodash) 现代化的JavaScript实用程序库，提供模块化，性能和附加功能
 - [redux](#redux) JavaScript应用程序的可预测状态容器
 - [moment](#moment) 使用javascript解析，验证，操作和显示日期
