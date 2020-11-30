@@ -3,9 +3,6 @@ title: Awesome Frontend
 hero:
   title: Awesome Frontend
   desc: 整理前端有用的工具和代码库
-  actions:
-    - text: 快速上手 →
-      link: /guide/getting-started
 footer: Pansy&Alita | Copyright © 2020-present
 ---
 
