@@ -32,16 +32,22 @@ group:
 - [qrcode.react](https://github.com/zpao/qrcode.react) 二维码
 - [react-split-pane](https://github.com/tomkp/react-split-pane) 分割面板
 - [text-mask](https://github.com/text-mask/text-mask) 格式化输入
-- [react-amap](https://github.com/ElemeFE/react-amap) 饿了么封装的高德地图组件
-- [google-map-react](https://github.com/google-map-react/google-map-react) 谷歌地图
 - [braft-editor](https://github.com/margox/braft-editor) 美观易用的React富文本编辑器，基于draft-js开发
 - [react-quill](https://github.com/zenoamaro/react-quill) A Quill component for React.
 - [react-markdown](https://github.com/remarkjs/react-markdown) Markdown component for React
+
+### 可视化
+
+- [react-amap](https://github.com/ElemeFE/react-amap) 饿了么封装的高德地图组件
+- [google-map-react](https://github.com/google-map-react/google-map-react) 谷歌地图
+- [bizcharts](https://github.com/alibaba/BizCharts) 阿里爸爸出品，基于G2
+- [ant-design-charts](https://github.com/ant-design/ant-design-charts) 蚂蚁金服出品，基于g2plot
 
 ## Hooks
 
 - [ahooks](https://github.com/alibaba/hooks) 阿里巴巴出品的Hooks库
 - [react-use](https://github.com/streamich/react-use) React Hooks — 👍
+- [react-use-websocket](https://github.com/robtaussig/react-use-websocket) websocket hooks 
 
 ## 学习
 

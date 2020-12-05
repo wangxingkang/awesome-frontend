@@ -13,3 +13,6 @@ nav:
 - [globby](https://github.com/sindresorhus/globby) 获取对应规则匹配的文件
 - [semver](https://github.com/npm/node-semver) npm语义版本控制程序
 
+- [sade](https://github.com/lukeed/sade) Smooth (CLI) Operator 🎶
+- [progress-estimator](https://github.com/bvaughn/progress-estimator) 记录进度条并估算完成Promise所需的时间
+- [ora](https://github.com/sindresorhus/ora) Elegant terminal spinner (优雅的终端旋转器)

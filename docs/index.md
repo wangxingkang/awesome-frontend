@@ -18,6 +18,7 @@ footer: Pansy&Alita | Copyright © 2020-present
 - [菜鸟教程](https://www.runoob.com)
 - [实验楼](https://www.lanqiao.cn/courses)
 - [w3cplus](https://www.w3cplus.com)
+- [酷玩乖乖](https://www.kwgg2020.com/)
 
 ## 大厂技术分享网站
 
