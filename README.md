@@ -143,6 +143,7 @@
 ## 工具网站
 
 * [astexplorer](https://astexplorer.net/) AST语法树解析
+* [ImgFlow](https://imgflow.taoliapp.com/en/) 浏览器端图片压缩与格式转换（PNG/JPG/HEIC/WebP/AVIF；本地处理）
 * [tinyPng](https://tinypng.com/) 图片压缩
 * [regexper](https://regexper.com/) 正则图形化
 * [shields](https://shields.io) 徽章制作网站
